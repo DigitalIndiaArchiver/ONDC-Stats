@@ -1,0 +1,8 @@
+https://www.ondc.org/assets/theme/json/livenetwork.json
+https://www.ondc.org/assets/theme/json/tsp.json
+https://www.ondc.org/assets/theme/json/rsp.json
+https://www.ondc.org/assets/theme/json/osp.json
+https://www.ondc.org/assets/theme/json/nap.json
+https://www.ondc.org/assets/theme/json/advancestage.json
+https://www.ondc.org/assets/theme/json/initiatedintegration.json
+https://www.ondc.org/assets/theme/json/seller_all.json
