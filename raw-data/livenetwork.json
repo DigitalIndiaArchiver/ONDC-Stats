@@ -1,45 +1,86 @@
-[{"sellername": "Alpino", "domain": "Seller Network Participant","categories": "Grocery","cities": "Bengaluru","contact": "hiren@alpinohealthfoods.com","website": "https://alpino.store" },
-{"sellername": "Bitsila", "domain": "Seller Network Participant","categories": "Beauty,Electronics,Electrical & Consumer durable,Furniture,Fashion,Food & Beverage,Grocery,  Home & Decor, Healthcare, ","cities": "Pan India","contact": "sooryah@innobits.com","website": "https://www.bitsila.com" },
-{"sellername": "Bizom", "domain": "Seller Network Participant","categories": "Grocery, Food & Beverage, Home & Decor","cities": "Pan India","contact": "ondc@mobisy.com","website": "https://reports.bizom.in/users/login" },
-{"sellername": "BoAt", "domain": "Seller Network Participant","categories": "Electronics","cities": "","contact": "balaji.uppala@imaginemarketingindia.com","website": "https://www.boat-lifestyle.com" },
-{"sellername": "Craftsvilla", "domain": "Buyer Network Participant","categories": "Grocery, Food & Beverage","cities": "Bengaluru","contact": "customercare@craftsvilla.com","website": "https://www.craftsvilla.com" },
-{"sellername": "Delhivery", "domain": "Seller Network Participant","categories": "Intercity Logistics","cities": "Pan India","contact": "ondc_support@delhivery.com","website": "https://www.delhivery.com" },
-{"sellername": "Digiit", "domain": "Seller Network Participant","categories": "Grocery, Food & Beverage, Home & Decor","cities": "Coimbatore, Pollachi, Chennai, Madurai, Kumbakonam, Erode, Tiruchirappalli, Mayiladuthurai, Dharmapuri, Ramanathapuram, Mettupalyam, Thirssur, Kannur, Ernakulam, Kollam, Guruvayur, Trivandrum, Bangalore, Mohali, Mumbai","contact": "nk@digiit.biz","website": "" },
-{"sellername": "Dunzo", "domain": "Logistics Service provider","categories": "Hyperlocal","cities": "Bengaluru, Pune, Gurgaon, Hyderabad, Delhi, Chennai, Noida, Mumbai, Kolkata","contact": "varuna.j@dunzo.in","website": "https://www.dunzo.com" },
-{"sellername": "eKart", "domain": "Logistics Service provider","categories": "Logistics","cities": "","contact": " ravi.chandrasekhar@flipkart.com","website": "https://www.ekartlogistics.com" },
-{"sellername": "EkSecond Technologies (former Design Right)", "domain": "Seller Network Participant","categories": "Food & Beverage","cities": "Hyderabad, Bangalore","contact": "najeeb@eksecond.in","website": "https://eksecond.in" },
-{"sellername": "eSamudaay", "domain": "Seller Network Participant","categories": "Grocery, Food & Beverage","cities": "Bengaluru, Shillong, Udupi, Lucknow, Meerut, Kaup, Bijnor, Cuttack, Kanpur, Ahmedabad, Surathkal, Bhopal, Mysuru, Mangalore, Dehradun, Haridwar, Chikkamagaluru, Mandya, Jammu and Kashmir, Ranebennur, Kotputli, Singur, Bailhongal, Kotdwar, Hamirpur, Bardez, Bansur, Parsa, Lakhimpur Kheri, Mudbidri, Porvorim, Tiswadi, Gorakhpur","contact": "mahori@esamudaay.com","website": "https://www.esamudaay.com" },
-{"sellername": "eunimart", "domain": "Seller Network Participant","categories": "Beauty, Electronics, Electrical & Consumer durable, Furniture, Fashion, Food & Beverage, Grocery, Home & Decor, Healthcare", "cities": "Pan India","contact": "shayak.mazumder@eunimart.com","website": "https://eunimart.com" },
-{"sellername": "eVitalRx", "domain": "Seller Network Participant","categories": "Grocery","cities": "Bengaluru","contact": "hamid@evital.in","website": "https://www.evitalrx.in" },
-{"sellername": "GOFRUGAL Technologies", "domain": "Seller Network Participant","categories": "Grocery, Food & Beverage","cities": "Bengaluru, Bhopal, Chandausi, Chennai, Chindwara, Chittoor, Coimbatore, Delhi, Ernakulam, Gangtok, Jaipur, Kanchipuram, Kanpur, Kolkata, Lucknow, Noida, Pune, Pollachi, Ramnathapuram, Theni, Thiruvallur, Tindivanam, Tirunelveli, Vijayawada, Vizianagaram","contact": "yogeshwara.g@gofrugal.com","website": "https://www.gofrugal.com" },
-{"sellername": "Grab", "domain": "Logistics Service provider","categories": "Hyperlocal","cities": "Bengaluru","contact": "sales@grab.in","website": "https://www.grab.in" },
-{"sellername": "Growth Falcons", "domain": "Seller Network Participant","categories": "Food & Beverage","cities": "Bengaluru, New Delhi","contact": "connect@growthfalcons.com","website": "https://growthfalcons.com" },
-{"sellername": "IDFC (Firstforward)", "domain": "Buyer Network Participant","categories": "Grocery, Food & Beverage","cities": "","contact": "sunil.karkera@idfcfirstbank.com","website": "https://www.idfcfirstbank.com" },
-{"sellername": "ITC Store", "domain": "Seller Network Participant","categories": "Grocery, Beauty","cities": "PAN India","contact": "amandeep.saini@otbinc.in","website": "https://itcstore.in" },
-{"sellername": "Jajee", "domain": "Seller Network Participant","categories": "Grocery","cities": "Bengaluru","contact": "raghujajee@gmail.com","website": "https://jajee.in" },
-{"sellername": "Kotak", "domain": "Buyer Network Participant","categories": "Grocery","cities": "","contact": "amit.bhardwaj3@kotak.com","website": "" },
-{"sellername": "Loadshare", "domain": "Logistics Service provider","categories": "Hyperlocal","cities": "Bengaluru, Delhi, Lucknow, Chennai, Pune, Kolkata,","contact": "brijendra.singh@loadshare.net","website": "https://loadshare.com" },
-{"sellername": "Loadshare", "domain": "Seller Network Participant","categories": "Logistics","cities": "Bengaluru","contact": "monica@craftsvilla.com","website": "" },
-{"sellername": "Magicpin", "domain": "Buyer Network Participant and Seller Network participant","categories": "Food & Beverage","cities": "Pan India","contact": "finance@magicpin.in","website": "https://magicpin.in" },
-{"sellername": "Meesho", "domain": "Buyer Network Participant","categories": "Fashion","cities": "","contact": "prachi.bhuchar@meesho.com","website": "https://www.meesho.com" },
-{"sellername": "Mystore", "domain": "Buyer Network Participant and Seller Network Participant","categories": "Grocerry, Food & Beverage, Fashion, Home & Decor, Beauty, Healthcare","cities": "Pan India","contact": "prafful.rajput@hippoinnovations.com","website": "https://mystore.in" },
-{"sellername": "Namma Yatri", "domain": "Buyer Network Participant","categories": "Mobility","cities": "","contact": "","website": "https://www.nammayatri.in" },
-{"sellername": "Namma Yatri", "domain": "Seller Network Participant","categories": "Mobility","cities": "","contact": "","website": "https://www.nammayatri.in" },
-{"sellername": "NDHgo", "domain": "Seller Network Participant","categories": "Grocery","cities": "","contact": "Sankalp@ndhgo.com","website": "https://www.ndhgo.com" },
-{"sellername": "nStore", "domain": "Seller Network Participant","categories": "Grocerry, Food & Beverage, Fashion, Home & Decor, Beauty, Healthcare","cities": "Bengaluru, Mumbai, Pune, Hyderabad, Delhi, Chennai, Coimbatore, Indore, Jaipur, Udaipur, Ahmedabad, Surat, Baroda, Nagpur, Nashik, Lucknow, Kanpur","contact": "pks@nstore.in","website": "https://nstore.in" },
-{"sellername": "Ocean Cakes", "domain": "Seller Network Participant","categories": "Food & Beverage","cities": "","contact": "oceancake7@gmail.com","website": "" },
-{"sellername": "PayTM", "domain": "Buyer Network Participant","categories": "Grocery, Food & Beverage, Home & Decor","cities": "Bengaluru, Delhi, Coimbatore, Shillong, Bhopal, Lucknow, Mumbai, Chennai, Meerut, Noida, Bijnor, Jaipur, Pune, Udupi, Chandausi, Chhindwara, Chittoor, Cuttack, Ernakulam, Faridabad, Gangtok, Kancheepuram, Kannur, Kanpur, Kaup, Kolkata, Mannar/ Alappuzha, Pollachi, Ramnathapuram, Theni, Thiruvallur, Thrissur","contact": "siddharth.arora@paytmmall.com ","website": "https://paytm.com" },
-{"sellername": "Pincode", "domain": "Buyer Network Participant","categories": "Grocery& Food & Beverage","cities": "","contact": "lalit.singh@phonepe.com","website": "https://www.phonepe.com" },
-{"sellername": "Raining Dilli Foods", "domain": "Seller Network Participant","categories": "Grocery","cities": "","contact": "harshithkalra@yahoo.in","website": "https://rainingdillifoods.com" },
-{"sellername": "Sellerapp", "domain": "Seller Network Participant","categories": "Grocery, Home & Decor","cities": "Delhi, Gurgaon, Noida, Mumbai, Bangalore, Greater Noida, Vadodara, Indore, Mangalore, Jaipur, Moradabad, Bareli, Lucknow, Faridabad, Chennai, Thiruvananthapuram,","contact": "ondc@sellerapp.com","website": "https://www.sellerapp.com" },
-{"sellername": "Shadowfax", "domain": "Logistics Service provider","categories": "Logistics","cities": "","contact": "vidhi.choraria@shadowfax.in","website": "https://www.shadowfax.in" },
-{"sellername": "Shiprocket", "domain": "Logistics Service provider","categories": "Hyperlocal, same day & Intercity","cities": "","contact": "ondc_partnership@shiprocket.com","website": "https://www.shiprocket.in" },
-{"sellername": "Sleepy owl", "domain": "Seller Network Participant","categories": "Grocery","cities": "","contact": "tanmay@sleepyowl.co","website": "https://sleepyowl.co" },
-{"sellername": "Snapdeal", "domain": "Seller Network Participant","categories": "Fashion","cities": "","contact": "arvind.kumar01@snapdeal.com","website": "https://www.snapdeal.com" },
-{"sellername": "Spicesmartshop", "domain": "Buyer Network Participant","categories": "Food & Beverage","cities": "","contact": "adhnan.rasheed@spicemoney.com","website": "https://www.spicesmartshop.com" },
-{"sellername": "Uengage", "domain": "Seller Network Participant","categories": "Food & Beverage","cities": "Delhi NCR, Bengaluru, Chandigarh","contact": "info@uengage.in","website": "https://www.uengage.in" },
-{"sellername": "Ushop", "domain": "Seller Network Participant","categories": "TBD","cities": "TBD","contact": "rahul.r.srivastava@unilever.com","website": "https://www.theushop.in" },
-{"sellername": "WoW", "domain": "Seller Network Participant","categories": "Beauty and Personal Care","cities": "Bengaluru","contact": "santosh.hegde@buywow.in","website": "https://www.buywow.in" },
-{"sellername": "Yatri", "domain": "Buyer Network Participant","categories": "Mobility","cities": "","contact": "","website": "" },
-{"sellername": "Yatri", "domain": "Seller Network Participant","categories": "Mobility","cities": "","contact": "","website": "" }
-]
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Just a moment...</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="/cdn-cgi/styles/challenges.css" rel="stylesheet">
+    
+
+</head>
+<body class="no-js">
+    <div class="main-wrapper" role="main">
+    <div class="main-content">
+        <noscript>
+            <div id="challenge-error-title">
+                <div class="h2">
+                    <span class="icon-wrapper">
+                        <div class="heading-icon warning-icon"></div>
+                    </span>
+                    <span id="challenge-error-text">
+                        Enable JavaScript and cookies to continue
+                    </span>
+                </div>
+            </div>
+        </noscript>
+        <div id="trk_jschal_js" style="display:none;background-image:url('/cdn-cgi/images/trace/managed/nojs/transparent.gif?ray=7c43cda29d493ab5')"></div>
+        <form id="challenge-form" action="/assets/theme/json/livenetwork.json?__cf_chl_f_tk=f._xNGMpdFNSJJSUml.bCu_.vzgzBXUpp1OgZ2lpyYY-1683570934-0-gaNycGzNCns" method="POST" enctype="application/x-www-form-urlencoded">
+            <input type="hidden" name="md" value="T585i5goHhH_uDJ7sAIf8WTwV1cnaDixeJw0x3oDNO8-1683570934-0-AW--cGmfSLLgV9T5lhgDH7NcK02FgKgEqsYpmpTUxL-cagdJQdWYvcZElHoGlnFSH3V3eNnuP7LBDlU5UcP-e1MqL7QqfQ2Oi9X0BW-Zm7CI5aDpqBbdkGNue7nS_DHfxCCkJEwvtmerpn2REh_WDiJT13wx7TSlqTTfmHvCzOyb6T-hGkEN-ffoHToJi1cPgLsgGExF6o-2SRUXmr1I3hKhO4ihqMbLIJLiSUyDhQRh1OtzMAc-PGp-FHRYuVN148iZL_P4vIN5zoVwfwQrgbNBQYV6Ji6Ubwv51_kmBU_7PiRE3msde30FCgHlCufkG-qRjUSVCKkSWPoy3AY-cMNBzz6l2Qvxt3GMK9CuBlAEbkbkgurT9Mwb4QA2jf9HAlTbT5sLLxSk5sxHTdRDkFaB_MNtqyVAKcRTMjYnVjxqRE1hLy2IrVE1As92zGCc3eMCviQ9f-Zcgk6YDK6NxOI1D2mvetwgdosmZrIVI4vnQzM46BpOmBCHB5h5FwJei0c2zBwGJPAJaW-_XqXIuoLC6rgH7NjoMKRqNAHD7x0_hRKc6TVlSEZzN1_eS_3uWH2tDE6M4WQEKhcoEH1ErGMR_wVQxvKZ284-quZQ0lf6kiak2cfRQq_bIkbBa2mSmuOGPRXpZvnQkmPzSDmUqv1x-2nc7PWOe8KEUveiQnjNQnm0JZl5YVBtYqhHlF2rpR3NMu-NLVITzh3jkKS8FgYCYrvDWowYoUvgBTKf0uPOlgvHtoiFmpXYyftNzlkId-spZALM4-I1GVp2N20tGfN89oLjcwMDoWNS6SzE5S3aC0L2ScLRoc1sG3nw1nfqb18OKvWFutssC-1XR1Ksop6OU9a3gquUslnI1Ca_pRaYNidULlz8y4X9taDrLn695Hkqx3sAusGHKimH84YI7NXnm6YKjqwNS8r-xDPRxf2o3dZMIVPL_AJZXNF2yUSEWgs70GpjV42xKWj2i8u99KTtC_1veA6PD0Yq6PsrKkwh1MHr5hNKxIzTt7n52H37paGnZW6WUcu3NqZS-SHSpBKfCWaOrOzFJ7WssrTT9hPjA6KrokKoH9ahHQq10UEfFRDhIzjM61OVcEU6FYCYYagEI_Hg9ZLjvGbYgk7IbtwGuCG4VOJQ_ndklX17daM1KYhw3Akl662axbkCe7XRtUm_xOSw7pyPNa0Q51rA1EXvxBBAQpIdQqEZYG7sYiUMf58N7c18KT7gHd-w_FvnyEEP4hGFSCgD3sOiWTuuOswQQTCjgs7XbDT1Ontzn8Gb2qWdAN73Y9E-AI87Rem8uDOrGftQ6qLtmCCp-XueVggN0BYodnE2q15VRBwNSO6l0sR3kfX84xSokuqjdTIzmoniIxG-OmTMWdTfM8h6LcnK9Y5jDKhDjs--ZENh7djnYye20Xv9EbiBZsoeGt81-enuNgWA2yHO4vExAf960jR16LAKFHVd8JXWoJ3pNoEYXJI0oOd5xtRJEXcCL-FE5jNgpyFVpcbu3GBwxfT2o33UOXCfNEoZ9qeDvPYd7rvPlWThNxfZyjITpIEjH-tzkAyoeVGEp9mwfABxlNWvgAYEg8T_kbunLX94Dg8sbJJtmnZs7pE5o0N7ysj2yHKM63GqZhSnFXi6DmxTBSqWjrSMMEyfezUxvSgtPI8OMVdjAhBNzH-Y4pW-9pF204xrVHrQ06hp__Ar-NqOmOUvjD4D3kJnEH_TYSSQX_gqBLBzyfE7ytHwNrPOuXhlIxEEk3-_1MTxVgDjdJihZGUHXnWiSPIlkT4186XEspVl-Ng5DdXhPt8AGbZzZKSuSp7fY_6H1tbBnIQ854Hj5Fh6butzfeP_NuL_GyP1maA2nuT7ggA_npyd2fVuvMndtk8bi_7C_GDa_y_hfHaqot9iivL8rtfh4_v9gJ-SYFuzg9grA9lmnknZlnY_XteiqEF3NOcnvepiB865zGH1lF6VGOm7bqIpzb_GEiXszNFVwIh5uUl4vUUcZoJM1_DtlbLIHgWP01eb0PUIe3i9tzfuRCTYopSBV9xQ3cdm2JiCxu3z1LojeoswXRPX3GLGqORf6ERRGnld6EQmDCiCjZrka2rhfjj_B_wVabisxw1A-YZ3SevRZVJb3a6dCymLcvQscdSn2UO3x2q-7wZdMQTBMCbArEV7J1KM-wg9Sz8Fxm4Ak8qWoQrZQ5r8H6Rj_CDsaJrqefir2-pxm5RltjajEbrIbr0dEO9PEPBtLrNBGCg5iN-FbQAkMXaTtnGUtGWIGXJyChKH-Z1P6-iSKS8XtC4V7DZeHViCWqtFt7IfTG6gWyi_sekUl71DB_O6ZisT0sW_oKqx2RrIYgo1ROW7_UDcYb8sI7IC17ow60AmrfPRadrzv04XpBeUZ_dkRTrnkgGeTXILVGQaRlbKcAGHdUUoW2AQxownSekedFMKA04ArzS8YXs8ONYokOAUt4AqqDhAnJWNwGXrip1gy2guzfZQPK2a82GgMkdUGKYMxYXMaAezFybLgt94xZKP1EUGQ7bpjCe-l0w1VbUEqR7hrMmemAMsidwYEbqzcFjwgUfh-8RtncmVZQCRy3Jf2Xtek3cy582VJM07f8pglHzZUbeDQTbnNb7hY0hJRXKGlJeskQ">
+        </form>
+    </div>
+</div>
+<script>
+    (function(){
+        window._cf_chl_opt={
+            cvId: '2',
+            cZone: 'www.ondc.org',
+            cType: 'managed',
+            cNounce: '66101',
+            cRay: '7c43cda29d493ab5',
+            cHash: 'aeb956cecae93f8',
+            cUPMDTk: "\/assets\/theme\/json\/livenetwork.json?__cf_chl_tk=f._xNGMpdFNSJJSUml.bCu_.vzgzBXUpp1OgZ2lpyYY-1683570934-0-gaNycGzNCns",
+            cFPWv: 'g',
+            cTTimeMs: '1000',
+            cMTimeMs: '0',
+            cTplV: 5,
+            cTplB: 'cf',
+            cK: "",
+            cRq: {
+                ru: 'aHR0cHM6Ly93d3cub25kYy5vcmcvYXNzZXRzL3RoZW1lL2pzb24vbGl2ZW5ldHdvcmsuanNvbg==',
+                ra: 'Y3VybC83LjgxLjA=',
+                rm: 'R0VU',
+                d: 'LjbUrjAe3akRtUPuWgu+HAnz/aKi+DJfdLazRkbHIJZU5/rHluGBiDS9+V8h+YxVwGiJ/B5d+zWZTTzhIKPbnKjiaIC/DijrZBraoEJvUYiQEUHnRK2M6nEWXNQ+A10VFrrIwbsnerTdE4x6wYd0PY8TY/COqHYbBHEebIzZdAXe68i83EI+84rAFMf+bDOuuYun0eyNGpfWlfUILR3TRvbXovqrmEkUyqbyrw7eEeuk3Dibc6F5kh2lESew6WbxW9EaETzS41v7lVAKMhpwnDSTv84fcpgp0NZsdyBiZgbBSlHZ2hYb0SlTms9tawL/g+1EQTKs7IvoFFDv5Wgtk/csmRfJgd1kpg/I/T4140Hqc1RXBOMXkOTeRiC0Ket8UdR4jiLFN1/CuL+0vHHGr+6SPNT5QC80jtLufCi37q95e6PkOxEeAgeKX/ogIkWVvypn/Nr0xDBfhhwpRX83/Z5hw6Ldhh9wnJ07SGqJpwCwS+Vw/9/bvluBKWd3Jbk0vjlUsA8/VMK135zOF/UHyM+SGcdPyWa7NZxlnwnzX6iarlJkBykQa0Gl0R+BJxDT',
+                t: 'MTY4MzU3MDkzNC4xNzYwMDA=',
+                m: 'XTjzP8Xd6DtdvBNlwncEXiGQyhhPx7ln31Ujx0fQWzs=',
+                i1: 'KKooXeU2KkHK1b6dpTOnJg==',
+                i2: 'PRA7xEgYxSmz/fJaQwkTNA==',
+                zh: 'z9FfYdRe8KcZUL6LoW6NU6i++77G7fasTzyTt3RpiPk=',
+                uh: 'XtPohTwN9ruoNwJrCbocmA5soW1XPnkxU/yVFmBLOQo=',
+                hh: '2id+LDSGNOT8KOJb7Fr5OIOpgrzsizk9usiIZhN1SoI=',
+            }
+        };
+        var trkjs = document.createElement('img');
+        trkjs.setAttribute('src', '/cdn-cgi/images/trace/managed/js/transparent.gif?ray=7c43cda29d493ab5');
+        trkjs.setAttribute('alt', '');
+        trkjs.setAttribute('style', 'display: none');
+        document.body.appendChild(trkjs);
+        var cpo = document.createElement('script');
+        cpo.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=7c43cda29d493ab5';
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window.history && window.history.replaceState) {
+            var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+            history.replaceState(null, null, "\/assets\/theme\/json\/livenetwork.json?__cf_chl_rt_tk=f._xNGMpdFNSJJSUml.bCu_.vzgzBXUpp1OgZ2lpyYY-1683570934-0-gaNycGzNCns" + window._cf_chl_opt.cOgUHash);
+            cpo.onload = function() {
+                history.replaceState(null, null, ogU);
+            };
+        }
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+</script>
+
+
+</body>
+</html>
